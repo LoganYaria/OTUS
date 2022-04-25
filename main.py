@@ -54,3 +54,8 @@ class A320n(Aircraft):
 plane_3 =A320n('jet','A320n','low wing')
 print (plane_3.taxi())
 print (plane_3.fly())
+
+
+
+def test_delete():
+    pass
